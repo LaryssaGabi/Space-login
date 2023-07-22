@@ -1,0 +1,160 @@
+@media (max-width: 1366px){
+    .viagem{
+        left: 32%;
+        position: absolute;   
+    }
+
+    .circulo{
+    position:absolute;
+    width: 49%;
+    height: 820px;
+    top: 120.3%;
+}
+    
+}
+@media (max-width: 1240px) {
+    
+    .viagem{
+        left: 32%;
+        position: absolute;   
+    }
+
+    .circulo{
+    position:absolute;
+    width: 49%;
+    height: 820px;
+    top: 120.3%;
+}
+}
+
+@media (max-width: 1200px) {
+    
+    .fundo{
+        display: none;
+    }
+        
+    .titulo{
+        font-size: 55px;
+        position: relative;
+        text-align: center;
+        margin-right: 70px;
+    }
+
+    .viagem{
+        margin-left: 350px;
+        position: absolute;   
+    }
+
+    .login-box{
+        margin-left: 370px;
+        position: absolute;
+        top: 77%;
+    }
+
+    .circulo{
+        display: none;
+    }
+}
+
+@media (max-width: 840px){
+    .titulo{
+        top: 35px;
+        font-size: 55px;
+        position: relative;
+        text-align: center;
+        margin-right: 70px;
+    }
+
+    .viagem{
+        top: 53px;
+        margin-left: 290px;
+        position: absolute;
+    }
+
+    .login-box{
+        margin-left: 260px;
+        position: absolute;
+        top: 77%;
+    }
+    
+    .circulo{
+        display: none;
+    }
+    
+}
+
+@media (max-width: 740px){
+    .titulo{
+        font-size: 55px;
+        position: relative;
+        text-align: center;
+        margin-right: 70px;
+    }
+
+    .viagem{
+        margin-left: 255px;
+        position: absolute;
+    }
+
+    .login-box{
+        margin-left: 31%;
+        position: absolute;
+    }
+
+    .circulo{
+        display: none;
+    }
+    
+}
+
+@media (max-width: 610px){
+    .titulo{
+        font-size: 55px;
+        position: relative;
+        text-align: center;
+        margin-right: 70px;
+    }
+
+    .viagem{
+        margin-left: 255px;
+        position: absolute;
+    }
+
+    .login-box{
+        margin-left: 30%;
+        position: absolute;
+    }
+
+    .circulo{
+        display: none;
+    }
+    
+}
+
+
+@media (max-width: 500px){
+    .titulo{
+        font-size: 55px;
+        position: relative;
+        text-align: center;
+        margin-right: 70px;
+    }
+
+    .viagem{
+        margin-left: 120px;
+        position: absolute;
+    }
+
+    .login-box{
+        margin-left: 117px;
+        position: absolute;
+    }
+
+    .circulo{
+        display: none;
+    }
+    
+}
+
+
+
