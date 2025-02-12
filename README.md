@@ -11,7 +11,7 @@ O objetivo deste projeto é permitir que os usuários acessem um sistema por mei
 - Formulário de login com campos para email e senha.
 - Validação de entrada dos campos, assegurando que o email e a senha sejam inseridos.
 - Animações sutis para uma melhor experiência do usuário.
-- Layout responsivo que se adapta a diferentes tamanhos de tela.
+- Layout responsivo que se adapta a diferentes tamanhos de tela
 
 ## Tecnologias Utilizadas
 
